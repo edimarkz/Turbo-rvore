@@ -17,7 +17,3 @@ Seu objetivo é **manipular o tempo de leitura** de forma simples, rápida e pr�
 5. ✅ Mude de página para aplicar o novo tempo.  
 
 ---
-
-## ⚡ Exemplo
-```bash
-Tempo definido: 300 segundos
