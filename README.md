@@ -15,7 +15,7 @@ Seu objetivo é **manipular o tempo de leitura** de forma simples, rápida e pr�
 3. 🎛️ **Ative o Script** no navegador.  
 4. ⏱️ Defina o tempo em segundos no menu (ex.: `300`) e clique em **"Enviar"**.  
 5. ✅ Mude de página para aplicar o novo tempo.  
-
+ **TUTORIAL GRAVADO - EM BREVE!!!**
 ---
 
 ## ⚡ Exemplo
